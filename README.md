@@ -1,8 +1,8 @@
 # MyFirstRepository
 STA_445
 
-Abdul Razak Ishak
+## Abdul Razak Ishak
 
-STA 445
+### STA 445
 
 I love github
