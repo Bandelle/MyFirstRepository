@@ -1,5 +1,4 @@
 # MyFirstRepository
-STA_445
 
 ## Abdul Razak Ishak
 
